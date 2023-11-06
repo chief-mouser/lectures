@@ -2,7 +2,7 @@
 # to Computer Science Using Python 3
 
 import unittest
-import tools
+import tools # import the function/method we are trying to test
 
 class TestRunningSum(unittest.TestCase):
     '''Tests for running_sum.'''
